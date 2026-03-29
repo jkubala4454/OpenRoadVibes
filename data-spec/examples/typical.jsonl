@@ -1,0 +1,4 @@
+{"timestamp":"2026-03-29T17:45:12.123Z","latitude":44.9537,"longitude":-93.0900,"speed":12.4,"accel_rms":1.82,"jerk":0.45,"vibration_energy":0.0032,"device_id":"ORV-001"}
+{"timestamp":"2026-03-29T17:45:12.373Z","latitude":44.9538,"longitude":-93.0901,"speed":12.5,"accel_rms":1.79,"jerk":0.41,"vibration_energy":0.0030}
+{"timestamp":"2026-03-29T17:45:12.623Z","latitude":44.9539,"longitude":-93.0902,"speed":12.6,"accel_rms":1.77,"jerk":0.38,"vibration_energy":0.0029,"imu_model":"ICM-20948"}
+{"timestamp":"2026-03-29T17:45:12.873Z","latitude":44.9540,"longitude":-93.0903,"speed":12.7,"accel_rms":1.74,"jerk":0.36,"vibration_energy":0.0027,"vehicle_type":"bike"}
