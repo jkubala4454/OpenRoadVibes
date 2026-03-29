@@ -45,10 +45,11 @@ else:
     print("Record is invalid:", error)
 ```
 ## Project Structure
+```text
 orv_lf/
 ├── __init__.py
 ├── parser.py   # Core validation logic
 └── cli.py      # Implementation of the orv-validate CLI
-
+```
 ## Contributing
 Please see the project‑wide CONTRIBUTING.md for guidelines and development workflow.
