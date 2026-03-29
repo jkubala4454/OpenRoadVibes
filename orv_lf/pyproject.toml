@@ -1,0 +1,12 @@
+[project]
+name = "orv-lf"
+version = "0.1.0"
+description = "Reference parser and validator for the OpenRoadVibes Logging Format (ORV-LF)"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "jsonschema>=4.0.0"
+]
+
+[project.scripts]
+orv-validate = "orv_lf.cli:main"
